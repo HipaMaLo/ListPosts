@@ -110,5 +110,5 @@ private posts: Ref<Array<IPost>> = ref([]);
 ## Recursos
 
 - [Vue 3 Composition API](https://vuejs.org/guide/introduction.html)
-- [TypeScript en Vue](https://vuejs.org/guide/typescript/overview.html)
+- [TypeScript en Vue](https://vuejs.org/guide/typescript/composition-api.html)
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
